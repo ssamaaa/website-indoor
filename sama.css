@@ -1,0 +1,130 @@
+
+
+@font-face {
+    font-family: green;
+    src: url(Satisfy-Regular.ttf);
+}
+
+
+.title{
+    text-transform: capitalize;
+    font-family: green;
+    font-size: 50px;
+    
+}
+
+.discription{
+    margin-top: -40px;
+}
+
+.title2{
+    text-transform: capitalize;
+    font-family: green;
+    position: absolute;
+    color: white;
+    margin-top: -350px;
+    margin-left: 370px;
+    font-size: 50px;
+}
+
+.title2:hover{
+    font-size: 55px;
+    margin-left: 350px;
+    text-shadow: 10px 10px 8px black;
+}
+
+.list li a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.list li{
+    display: inline;
+    padding-right: 30px;
+
+}
+
+.headtitle{
+    text-decoration: underline;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-transform: capitalize;
+    margin-top: 25px;
+}
+
+.wagha{
+    width: 100%;
+}
+
+.first{
+    
+    margin-top: 300px;
+    margin-left: 170px;
+    font-size: 50px;
+    
+}
+
+#firsta{
+    text-decoration: none;
+    color: black;
+}
+
+.first:hover{
+    text-decoration: underline;
+}
+
+#indoorpic{
+    border: 10px black solid;
+    margin-left: 650px;
+    margin-top: -350px;
+    width: 550px;
+    height: 500px;
+    display: inline-block;
+
+}
+
+#indoorpic:hover{
+    border: 13px black solid;
+}
+
+#outdoorpic{
+    border: 10px black solid;
+    margin-left: 40px;
+    margin-top: 50px;
+    width: 550px;
+    height: 500px;
+    display: inline-block;
+
+}
+
+#outdoorpic:hover{
+    border: 13px black solid;
+
+}
+
+.sec{
+    /* display: inline-block;   */
+    float: right;
+    margin-top: 270px;
+    margin-right: 150px;
+    font-size: 50px;
+    color: black;
+
+}
+
+#seca{
+    text-decoration: none;
+    color: black;
+}
+
+.sec:hover{
+    text-decoration: underline;
+}
+
+#lasthr{
+    width: 600px;
+    margin-top: 60px;
+}
+
